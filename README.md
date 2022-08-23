@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... ChordPro
 - 🌱 I’m currently learning ... TypeScript
 - 💞️ I’m looking to collaborate on ...  testing my code
-- 📫 How to reach me ... no comment
+- 📫 How to reach me ... Don't call me .. I'll call you.
 
 <!---
 ginsumaster/ginsumaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
